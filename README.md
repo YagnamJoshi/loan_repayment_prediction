@@ -1,6 +1,4 @@
 
-
-```markdown
 # Loan Repayment Prediction
 
 This project aims to predict whether customers of a Microfinance Institution (MFI) will repay their loans within 5 days. The prediction model uses data provided by a Telecom Industry, focusing on customer behavior and other relevant features.
